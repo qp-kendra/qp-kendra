@@ -104,3 +104,6 @@ nav .brand-logo,nav ul a{color:#444}p{line-height:2rem}.sidenav-trigger{color:#0
 		background-position: 0% 50%;
 	}
 }
+.navbar-fixed {
+  height: 60px;
+}
