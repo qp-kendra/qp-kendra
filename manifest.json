@@ -2,12 +2,12 @@
   "name": "QPkendra",
   "short_name": "QPkendra.com",
   "description": "Qpkendra.com : MU University,MSBTE ,HSC Science,HSC Commerce , HSC Arts ,SSC  All Question papers,Solution Papers,ModelAnswer Papers Download HUB",
-  "start_url": "https://qpkendra.com/?utm_source=homescreen",
+  "start_url": "https://qpkendra.com",
   "theme_color": "#FFFFFF",
   "orientation": "any",
   "background_color": "#000000",
   "display": "standalone",
-  "Scope": "https://qpkendra.com/",
+  "Scope": "https://qpkendra.com",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-uhKBRDhpGRw/X0i4QJUDRXI/AAAAAAAAAHI/NfffJZtcVqMld5o8Z4eSsGIZMRdSyVjBQCLcBGAsYHQ/s72/favicon.png",
