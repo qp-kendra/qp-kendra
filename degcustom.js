@@ -94,7 +94,7 @@ $(document).ready(function(){
 
     if (value === "engdegreesyllabus")  {window.location.href = "./Engg-syllabus.html";}
     
-    if (value === "cgpi-percent-calc") {window.location.href = "/tools/CGPI-Calculator-Engg.html";}
+    if (value === "cgpipercentcalc") {window.location.href = "/tools/CGPI-Calculator-Engg.html";}
     })
 
     $("#branch").change(function(){var value = $('#branch').val();if (value !== "noselect"){window.location.href = url+value;}})
