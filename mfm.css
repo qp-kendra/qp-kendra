@@ -138,6 +138,7 @@ hr.hrbbreak {
   font-weight: 700;
   border-radius:10px;
   background-color: #00428a;
+  min-width: fit-content;
   
 }
 .mcq_answer a {
